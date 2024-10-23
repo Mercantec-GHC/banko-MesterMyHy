@@ -1,0 +1,14 @@
+C:\Users\nickl\source\repos\banko\banko\obj\Debug\net8.0\banko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nickl\source\repos\banko\banko\obj\Debug\net8.0\banko.AssemblyInfoInputs.cache
+C:\Users\nickl\source\repos\banko\banko\obj\Debug\net8.0\banko.AssemblyInfo.cs
+C:\Users\nickl\source\repos\banko\banko\obj\Debug\net8.0\banko.csproj.CoreCompileInputs.cache
+C:\Users\nickl\source\repos\banko\banko\bin\Debug\net8.0\banko.exe
+C:\Users\nickl\source\repos\banko\banko\bin\Debug\net8.0\banko.deps.json
+C:\Users\nickl\source\repos\banko\banko\bin\Debug\net8.0\banko.runtimeconfig.json
+C:\Users\nickl\source\repos\banko\banko\bin\Debug\net8.0\banko.dll
+C:\Users\nickl\source\repos\banko\banko\bin\Debug\net8.0\banko.pdb
+C:\Users\nickl\source\repos\banko\banko\obj\Debug\net8.0\banko.dll
+C:\Users\nickl\source\repos\banko\banko\obj\Debug\net8.0\refint\banko.dll
+C:\Users\nickl\source\repos\banko\banko\obj\Debug\net8.0\banko.pdb
+C:\Users\nickl\source\repos\banko\banko\obj\Debug\net8.0\banko.genruntimeconfig.cache
+C:\Users\nickl\source\repos\banko\banko\obj\Debug\net8.0\ref\banko.dll
